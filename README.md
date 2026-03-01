@@ -104,8 +104,7 @@ What was happening in the top 3 products that contributed to the sales dip?
 
 ## 📊 Sales Performance Dashboard  
 
-![Sales Dashboard](images/sales_dashboard.png)
-
+[![Sales Dashboard](Sales Performance Dashboard.png)](Sales%20Performance%20Dashboard.png)
 ### 🔍 Key Insights  
 
 - Total revenue ~$6.1M with ~21.6K orders  
@@ -129,7 +128,7 @@ What was happening in the top 3 products that contributed to the sales dip?
 
 ## 📊 Marketing & Customer Analysis  
 
-![Marketing Dashboard](images/marketing_customer_dashboard.png)
+[![Marketing Dashboard](Marketing and Customer Analysis.png)](Marketing%20and%20Customer%20Analysis.png)
 
 ### 🔍 Key Insights  
 
@@ -153,7 +152,7 @@ What was happening in the top 3 products that contributed to the sales dip?
 
 ## 📊 Product Analytics  
 
-![Product Dashboard](images/product_analytics_dashboard.png)
+[![Product Dashboard](Product_Analytics.png)](Product_Analytics.png)
 
 ### 🔍 Key Insights  
 
