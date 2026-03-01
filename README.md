@@ -56,7 +56,7 @@ What was happening in the top 3 products that contributed to the sales dip?
 
 ---
 ## 📸 EDA Visuals  
-![Product Revenue Analysis](Screenshot (373).png)
+![Product Revenue Analysis](./Screenshot%20(373).png)
 
 ---
 ## 🔍 Key Findings  
