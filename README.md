@@ -69,7 +69,7 @@ What was happening in the top 3 products that contributed to the sales dip?
 ## 🔍 Key Findings  
 
 - Total revenue ≈ **$6.1M**, with monthly sales ranging from **$80K to $500K**  
-- Gaming Monitor is the top-performing product (~$2M), while Gaming Headset is the lowest (~$800), indicating potential data gaps  
+- Gaming Monitor is the top-performing product (~$2M),  while Gaming Headset is the lowest (~$800), indicating potential data gaps  
 - Headset category contributes **<2%** of total sales  
 - Significant spike observed in **December 2020**, indicating seasonal or promotional impact  
 - Sales increased sharply post-2020, suggesting macro-level influence (e.g., COVID)  
