@@ -45,4 +45,7 @@ This table is joined with the orders dataset using COUNTRY_CODE to enable region
 - Removed invalid records (e.g., incorrect 1900 date entries)  
 - Retained low-impact missing values (e.g., price, country) for stakeholder validation  
 - Identified duplicate order IDs but retained them to avoid unintended data loss  
-- Flagged shipping date inconsistencies (ship_ts < purchase_ts) for further investigation  
+- Flagged shipping date inconsistencies (ship_ts < purchase_ts) for further investigation
+
+### 📸 EDA Visuals 
+![Product Revenue Analysis](.png)
